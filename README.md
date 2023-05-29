@@ -19,3 +19,15 @@ This is a simple NotesApp which allows the user to signup/login and create, view
 - [Setting up Project](#Setup)
 - [Login details](#login-details)
 - [Screenshots](#screenshots)
+
+## :pushpin: Tech Stack
+
+- Frontend
+  - HTML
+  - CSS
+  - Bootstrap
+  - Javascript
+- Backend
+  - PHP
+- Database
+  - MySQL
