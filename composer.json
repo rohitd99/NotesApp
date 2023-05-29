@@ -1,0 +1,15 @@
+{
+    "name": "rahul/notes-app",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rohit",
+            "email": "rohitdeshpande9922@gmail.com"
+        }
+    ],
+    "require": {}
+}
