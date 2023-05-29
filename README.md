@@ -127,6 +127,6 @@ User login -
 
 ![alt text](./screenshots/deleteuser.png "Delete User")
 
-## :pushpin: Contributing
+## Contributing
 
 All are welcome to review the code and contribute to it, I certainly know for now there are many loopholes and code repititions I've made which can be further improved. With time I will be solving those issues and adding a few more features. Feel free to raise any issues or improve upon the above areas, or even add new features.
