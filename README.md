@@ -14,4 +14,8 @@ This is a simple NotesApp which allows the user to signup/login and create, view
 
 ## Table of Contents
 
-- [Tech Stack](#tech-stack) - [Features](#features) - [Setting up Project](#Setup) - [Login details](#login-details) - [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Features](#features)
+- [Setting up Project](#Setup)
+- [Login details](#login-details)
+- [Screenshots](#screenshots)
