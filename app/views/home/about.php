@@ -43,10 +43,12 @@
                                     </form>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item text-light" href="#">Edit details</a>
+                                    <a class="dropdown-item text-light" href="/NotesApp/home/user/edit">Edit details</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item text-light" href="#">Delete Account</a>
+                                    <button class="dropdown-item text-light" data-bs-toggle="modal" data-bs-target="#deleteuser-modal">
+                                        Delete Account
+                                    </button>
                                 </li>
                             </ul>
                         </li>
@@ -115,6 +117,24 @@
                             with ease. Your control is our priority.
                         </li>
                     </ul>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="deleteuser-modal" tabindex="-1" aria-labelledby="modal-title2" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="modal-title2">
+                            Are you sure you want to delete the account ?
+                        </h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body d-flex justify-content-center">
+                        <form action="/NotesApp/home/user/delete" method="POST">
+                            <button type="submit" class="btn btn-danger mx-2" data-bs-dismiss="modal">Yes</button>
+                        </form>
+                        <a href="#" class="btn btn-outline-primary mx-2" data-bs-dismiss="modal">No</a>
+                    </div>
                 </div>
             </div>
         </div>

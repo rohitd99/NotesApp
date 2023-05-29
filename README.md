@@ -74,3 +74,59 @@ Run the php in-built server
 php -S localhost:8080
 
 ```
+
+> **_NOTE:_** You may use the XAMPP server too, but certain changes would need to be made. Firstly place the project in htdocs folder , also change the paths of the routes in index.php in public folder and other links as well. You may also need to change the references of styles and images to './' from just '/'.
+
+## :pushpin: Login details
+
+User login -
+
+- Username : User
+- Email : user@email.com
+- Password : user123#
+
+## :pushpin: Screenshots
+
+### :round_pushpin: Landing
+
+![alt text](./screenshots/landing.png "Landing")
+
+### :round_pushpin: Login
+
+![alt text](./screenshots/login.png "Login")
+
+### :round_pushpin: Signup
+
+![alt text](./screenshots/signup.png "Signup")
+
+### :round_pushpin: Home
+
+![alt text](./screenshots/home.png "Home")
+
+### :round_pushpin: Create Note
+
+![alt text](./screenshots/createnote.png "Create Note")
+
+### :round_pushpin: Edit Note
+
+![alt text](./screenshots/editnote.png "Edit Note")
+
+### :round_pushpin: Delete Note
+
+![alt text](./screenshots/deletenote.png "Delete Note")
+
+### :round_pushpin: Search Note
+
+![alt text](./screenshots/search.png "Search Note")
+
+### :round_pushpin: Edit User
+
+![alt text](./screenshots/editdetails.png "Edit User")
+
+### :round_pushpin: Delete User
+
+![alt text](./screenshots/deleteuser.png "Delete User")
+
+## :pushpin: Contributing
+
+All are welcome to review the code and contribute to it, I certainly know for now there are many loopholes and code repititions I've made which can be further improved. With time I will be solving those issues and adding a few more features. Feel free to raise any issues or improve upon the above areas, or even add new features.
