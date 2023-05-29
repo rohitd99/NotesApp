@@ -85,7 +85,7 @@ User login -
 - Email : user@email.com
 - Password : user123#
 
-## :pushpin: Screenshots
+## Screenshots
 
 ### :round_pushpin: Landing
 
