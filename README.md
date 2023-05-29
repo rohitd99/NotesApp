@@ -21,7 +21,7 @@ This is a simple NotesApp which allows the user to signup/login and create, view
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
-## :pushpin: Tech Stack
+## Tech Stack
 
 - Frontend
   - HTML
@@ -33,14 +33,14 @@ This is a simple NotesApp which allows the user to signup/login and create, view
 - Database
   - MySQL
 
-## :pushpin: Features
+## Features
 
 - Custom Mini MVC architecture used.
 - User Login and Signup with remember me using custom tokens.
 - CRUD operations on Notes.
 - Editing and Deleting user account.
 
-## :pushpin: Setting up Project
+## Setting up Project
 
 **NotesApp** firstly requires a installation of PHP 5.4+ preferably over PHP 7 since we use the built-in server.
 
@@ -77,7 +77,7 @@ php -S localhost:8080
 
 > **_NOTE:_** You may use the XAMPP server too, but certain changes would need to be made. Firstly place the project in htdocs folder , also change the paths of the routes in index.php in public folder and other links as well. You may also need to change the references of styles and images to './' from just '/'.
 
-## :pushpin: Login details
+## Login details
 
 User login -
 
